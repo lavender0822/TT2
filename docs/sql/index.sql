@@ -1,0 +1,1 @@
+ALTER TABLE KYDB_NEW.Game_HT_UserOrderDetails ADD INDEX SUM_Index(accounts, AddScore, OrderType);
